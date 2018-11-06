@@ -1,0 +1,18 @@
+{
+  "name": "gmid-generator",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@rmdlkomrer9jxjuf.myfritz.net:422/fritz/gmid-generator.git"
+  },
+  "author": "Fritz Heiden <fritz.heiden@mailbox.org>",
+  "license": "MIT",
+  "dependencies": {
+    "remove-accents": "git+ssh://git@rmdlkomrer9jxjuf.myfritz.net:422/fritz/remove-accents.git"
+  }
+}
