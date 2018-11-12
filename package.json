@@ -13,6 +13,6 @@
   "author": "Fritz Heiden <fritz.heiden@mailbox.org>",
   "license": "MIT",
   "dependencies": {
-    "remove-accents": "git+ssh://git@github.com:fritzendgltig/remove-accents.git"
+    "remove-accents": "fritzendgltig/remove-accents.git"
   }
 }
